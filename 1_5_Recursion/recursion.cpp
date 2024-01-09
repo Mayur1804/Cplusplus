@@ -7,7 +7,7 @@ void f(){
 
     if (baseNumber==10)
     {
-        cout<<"limit reached";
+        cout<<"limit reached.";
         return;
     }
     cout<< baseNumber << endl;
